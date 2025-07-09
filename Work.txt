@@ -1,0 +1,28 @@
+Research Trends, Challenges, and Emerging Topics in Digital Forensics A Review of Reviews
+
+Digital forensics, cybersecurity, review of reviews, forensic investigations, meta review
+
+IEEE Access and Transaction on Cyber Security,Volume:10,Issue Date:March.10,2022. 
+
+
+Research_Trends_Challenges
+
+
+research_trends_challenges
+
+
+Members
+--------
+
+urlid	
+URL	 
+Source_IP	 
+Source_Port	 
+Destination_IP	 
+Destination_Port	 
+Timestamp
+Prediction
+
+cyber_attack_detection
+
+cyber attack
